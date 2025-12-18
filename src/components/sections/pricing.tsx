@@ -18,7 +18,7 @@ export function Pricing() {
     },
     {
       name: "Premium Treatment",
-      price: "Mulai 90k",
+      price: "Mulai 100k",
       desc: "Untuk kasus khusus/material sensitif.",
       features: ["Suede/leather care", "Unyellowing/whitening (opsional)", "Assessment dulu"],
     },
