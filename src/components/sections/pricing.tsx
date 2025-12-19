@@ -11,7 +11,7 @@ export function Pricing() {
     },
     {
       name: "Deep Clean",
-      price: "60k",
+      price: "70k",
       desc: "Paling populer untuk pemakaian harian.",
       features: ["Upper detail", "Midsole + insole", "Lace wash", "Estimasi 2–3 hari"],
       highlight: true,
